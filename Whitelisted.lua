@@ -1,3 +1,3 @@
-return {
-"7250457524"
+local Whitelisted = {
+  7250457524,
 }
